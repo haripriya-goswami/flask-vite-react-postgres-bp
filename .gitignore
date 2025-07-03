@@ -1,0 +1,8 @@
+# Ignore the backup folder
+frontend-backup
+
+# Ignore node_modules
+**/node_modules/
+
+# Ignore postgres data
+**/pg-data
